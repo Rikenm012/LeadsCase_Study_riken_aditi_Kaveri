@@ -33,4 +33,8 @@ Build a logistic regression model to assign a lead score between 0 and 100 to ea
 There are some more problems presented by the company which your model should be able to adjust to if the company's requirement changes in the future so you will need to handle these as well. These problems are provided in a separate doc file. Please fill it based on the logistic regression model you got in the first step. Also, make sure you include this in your final PPT where you'll make recommendations.
 
 
-
+# Conclusion:
+## ->Total time spent on the website: Potential buyers consider the total duration of their visits to the website as an important variable.
+## -> Number of visits: The absolute count of visits made by potential buyers is still a significant factor.
+## ->Primary source - Olark Chat: When potential buyers interact with the Olark Chat feature as their primary source of engagement, it is considered an important variable.
+## ->Last action - SMS Olark chat conversation: The point at which potential buyers had their last action as an SMS Olark chat conversation is also seen as a relevant factor.
